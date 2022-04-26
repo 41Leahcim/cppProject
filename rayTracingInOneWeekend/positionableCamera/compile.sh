@@ -1,0 +1,1 @@
+g++ sources/common.cpp sources/Camera.cpp sources/Color.cpp sources/Dielectric.cpp sources/HittableList.cpp sources/Lambertian.cpp sources/Metal.cpp sources/Ray.cpp sources/Sphere.cpp sources/Vec3.cpp sources/test.cpp -O2 -o test

@@ -1,0 +1,6 @@
+[submodule "guiLedController"]
+	path = guiLedController
+	url = https://github.com/41Leahcim/guiLedController.git
+[submodule "chatServer"]
+	path = chatServer
+	url = https://github.com/41Leahcim/chatServer.git
